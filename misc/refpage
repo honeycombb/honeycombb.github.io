@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>webbed site</title>
+	<meta name="author" content="Bryan S">
+	<meta http-equiv="refresh" content="60">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="makin my own homepage bitches">
+	<meta name="keywords" content="gay, anarchism, communism, uhh">
+</head>
+<!-- Write your comments here -->
+<body>
+	<h1>hey</h1>
+
+	<p>
+	<a href="#space">Jump to space pic</a>
+	</p>
+	
+	<p title="tooltip">
+	sup <br>
+	<a href="https://blogging.com/how-to-start-a-blog/">LINK</a> <br>
+	<a href="page2">PAGE2</a>
+	</p>
+	
+	<p>
+	<h2 id="space">space pic</h2>
+	<img src="image.jpg" alt="SPACE" height="320">
+	</p>
+
+	<p>
+	<button>Click me</button>
+	</p>
+	
+	<p>
+	<ul>
+		<li>Coffee</li>
+		<li>Tea</li>
+		<li>Milk</li>
+	</ul>
+	
+	<ol>
+		<li>Coffee</li>
+		<li>Tea</li>
+		<li>Milk</li>
+	</ol> 
+	</p>
+	
+</body>
+</html>
+
+<!-- W3schools html ref page
+https://www.w3schools.com/html/html_examples.asp
+-->
+<!-- TO LEARN
+https://www.w3schools.com/html/html_blocks.asp
+https://www.w3schools.com/html/html5_audio.asp
+forms
+-->
